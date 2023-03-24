@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carolsemeao
 - 👀 I’m interested in playing video games and Frontend Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently aspiring to become a professional Web Developer
 <!--- 💞️ I’m looking to collaborate on ...-->
 <!--- 📫 How to reach me ...-->
 
